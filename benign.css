@@ -1,0 +1,50 @@
+body{
+    height: 50%;
+    width: 100%;
+    background-size: auto;
+
+}
+.main{
+    border-radius: 10px;
+    margin: 40px 100px;
+    padding: 40px 200px;
+    background-image: url(pattern-background-desktop.svg);
+    background-color: rgb(231, 238, 255);
+    background-repeat: no-repeat;
+    background-size: contain;
+    text-align: center;
+}
+.m2 {
+margin:10px 170px;
+padding-bottom: 20px;
+background-color:whitesmoke;
+border-radius: 15px
+}
+
+.img{
+    margin: auto;
+    width: 410px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.plan{
+background-color: rgb(243, 237, 237) ;
+margin: 0% 10%;
+text-align: left;
+padding: 5%;
+
+}
+.plan a{
+    float: right;
+}
+.plan img{
+    float: left;
+    padding-right: 10px;
+}
+button{
+    border-radius: 10px;
+    border-style: hidden;
+    padding: 5px;
+    width: 80%;
+    background-color: rgb(86, 86, 219);
+}
